@@ -1,0 +1,16 @@
+# 系统/编辑器生成的文件
+.DS_Store
+Thumbs.db
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 示例：排除某个具体文件夹
+# node_modules/
+
+# 示例：排除某种类型的文件
+# *.pyc
+
+# 忽略指定的 md 文件
+git learning.md
